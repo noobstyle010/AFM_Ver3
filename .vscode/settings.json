@@ -29,6 +29,9 @@
     "**/.vscode/**"
   ],
   "files.associations": {
-    "string": "cpp"
+    "string": "cpp",
+    "ostream": "cpp",
+    "deque": "cpp",
+    "vector": "cpp"
   }
 }
