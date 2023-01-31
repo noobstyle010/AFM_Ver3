@@ -1,0 +1,11 @@
+start subrun.bat 60 %1 %2
+start subrun.bat 61 %1 %2
+start subrun.bat 62 %1 %2
+start subrun.bat 63 %1 %2
+start subrun.bat 64 %1 %2
+start subrun.bat 65 %1 %2
+start subrun.bat 66 %1 %2
+start subrun.bat 67 %1 %2
+start subrun.bat 68 %1 %2
+start subrun.bat 69 %1 %2
+start subrun.bat 70 %1 %2
